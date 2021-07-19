@@ -14,7 +14,8 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>Bhaskarjyoti Das</title>
 - Bulleted
 - List
 
