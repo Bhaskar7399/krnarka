@@ -7,7 +7,7 @@ We're just 2 friends who've recently graduated from colleges and looking forward
 ## STEM
 [Link to Blog1](https://bhaskar7399.github.io/krnarka/blog1)
 
-### Hobbies
+
 
 ### Markdown
 
