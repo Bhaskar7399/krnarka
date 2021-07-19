@@ -1,4 +1,4 @@
-## The Blogging Website of Bhaskarjyoti Das & Nitish Kumar
+## The Blogging Website of [Bhaskarjyoti Das](https://www.linkedin.com/in/bhaskarjyoti-das-156860159/) & [Nitish Kumar](https://www.linkedin.com/in/nitish-kumar-3556a116b/)
 
 ## Welcome to krnarka
 
