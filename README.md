@@ -1,5 +1,5 @@
-<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <title>Bhaskarjyoti Das</title>
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Bhaskar7399/krnarka/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
