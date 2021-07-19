@@ -2,9 +2,7 @@
 
 ## Welcome to krnarka
 
-/You can use the [editor on GitHub](https://github.com/Bhaskar7399/krnarka/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-//Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We're just 2 friends who've recently graduated from colleges and looking forward to experience the different flavors of life. This is our 1st attempt to make an impression in the internet world using our blogging website. This'll be the go to place where we'll be placing views of our friends on various topics taking place around the world ranging from STEM to sports!
 
 ### Markdown
 
