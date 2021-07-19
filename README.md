@@ -1,8 +1,10 @@
-## Bhaskarjyoti Das & Nitish Kumar
+## The Blogging Website of Bhaskarjyoti Das & Nitish Kumar
 
 ## Welcome to krnarka
 
 We're just 2 friends who've recently graduated from colleges and looking forward to experience the different flavors of life. This is our 1st attempt to make an impression in the internet world using our blogging website. This'll be the go to place where we'll be placing views of our friends on various topics taking place around the world ranging from STEM to sports!
+
+## STEM
 
 ### Markdown
 
